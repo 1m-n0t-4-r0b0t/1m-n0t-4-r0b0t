@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+OOPS! You have a small bug in your code 🐛
+                  \ /
+                  oVo
+              \___XXX___/
+               __XXXXX__
+              /__XXXXX__\
+              /   XXX   \
+                   V
+
 <!--
 **1m-n0t-4-r0b0t/1m-n0t-4-r0b0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
